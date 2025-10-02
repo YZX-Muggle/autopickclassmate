@@ -1,6 +1,6 @@
-## <span style="color:red">此项目由ai编写！</span>
 # 随机抽选学生
-
+> [!IMPORTANT]
+> **本项目由AI编写！**
 项目编号: 7508752265562308660
 
 本项目是由 [网站开发专家](https://space.coze.cn/) 创建.
