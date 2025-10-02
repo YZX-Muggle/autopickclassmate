@@ -11,6 +11,12 @@ function getPlugins() {
   return plugins;
 }
 
+
+export default defineConfig({
+  base: '/yzx/', 
+  plugins: getPlugins(),
+});
+
 export default defineConfig({
   plugins: getPlugins(),
 });
