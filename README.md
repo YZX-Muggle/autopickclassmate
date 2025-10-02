@@ -1,4 +1,4 @@
-## <span style="color:red;">此项目由ai编写！</span>
+## <span style="color:red">此项目由ai编写！</span>
 # 随机抽选学生
 
 项目编号: 7508752265562308660
